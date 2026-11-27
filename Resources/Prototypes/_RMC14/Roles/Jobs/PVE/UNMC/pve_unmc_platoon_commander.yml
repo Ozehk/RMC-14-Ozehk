@@ -20,6 +20,7 @@
   accessGroups:
   - ShipMasterAccess
   roleWeight: 0.25
+  greeting: rmc-job-greeting-pve-unmc-sunriders
   special:
   - !type:AddComponentSpecial
     components:

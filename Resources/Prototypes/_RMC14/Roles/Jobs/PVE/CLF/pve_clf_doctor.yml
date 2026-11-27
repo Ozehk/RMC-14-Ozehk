@@ -13,6 +13,8 @@
   - Colony
   - HospitalCorpsman
   spawnMenuRoleName: CLF Doctor (PVE)
+  greeting: rmc-job-greeting-pve-clf
+  supervisors: rmc-job-supervisors-clf-commander
   special:
   - !type:AddComponentSpecial
     components:

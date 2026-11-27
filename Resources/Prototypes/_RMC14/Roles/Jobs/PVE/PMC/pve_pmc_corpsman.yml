@@ -18,6 +18,7 @@
   - RMCWeYa
   - HospitalCorpsman
   spawnMenuRoleName: WEYA PMC Medic (PVE)
+  greeting: rmc-job-greeting-pve-pmc
   special:
   - !type:AddComponentSpecial
     components:

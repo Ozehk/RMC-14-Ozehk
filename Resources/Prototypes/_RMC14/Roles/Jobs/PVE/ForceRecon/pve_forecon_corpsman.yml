@@ -16,6 +16,7 @@
   accessGroups:
   - HospitalCorpsman
   spawnMenuRoleName: FORECON Corpsman (PVE)
+  greeting: rmc-job-greeting-pve-unmc-forecon
   special:
   - !type:AddComponentSpecial
     components:

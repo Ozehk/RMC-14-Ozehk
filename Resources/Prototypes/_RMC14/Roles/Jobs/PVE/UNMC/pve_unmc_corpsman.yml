@@ -21,6 +21,7 @@
   supervisors: cm-job-supervisors-secserg
   accessGroups:
   - HospitalCorpsman
+  greeting: rmc-job-greeting-pve-unmc-sunriders
   special:
   - !type:AddComponentSpecial
     components:

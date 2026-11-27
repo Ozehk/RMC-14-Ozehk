@@ -17,6 +17,7 @@
   - MarineMain
   - RMCWeYa
   spawnMenuRoleName: WEYA PMC Force Command (PVE)
+  greeting: rmc-job-greeting-pve-pmc
   special:
   - !type:AddComponentSpecial
     components:

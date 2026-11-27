@@ -14,6 +14,7 @@
   - RMCWeYa
   - SmartGunOperator
   spawnMenuRoleName: WEYA PMC Support Gunner (PVE)
+  greeting: rmc-job-greeting-pve-pmc
   special:
   - !type:AddComponentSpecial
     components:

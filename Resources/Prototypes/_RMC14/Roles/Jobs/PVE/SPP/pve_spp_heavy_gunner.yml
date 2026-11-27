@@ -12,6 +12,7 @@
   accessGroups:
   - SmartGunOperator
   spawnMenuRoleName: SPP Heavy Gunner (PVE)
+  greeting: rmc-job-greeting-pve-spp
   special:
   - !type:AddComponentSpecial
     components:

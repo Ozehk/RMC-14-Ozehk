@@ -11,6 +11,7 @@
   joinNotifyCrew: false
   supervisors: cm-job-supervisors-royal-tl
   spawnMenuRoleName: RCM Rifleman (PVE)
+  greeting: rmc-job-greeting-pve-rcm
   special:
   - !type:AddComponentSpecial
     components:

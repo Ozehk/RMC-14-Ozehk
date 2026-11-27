@@ -13,6 +13,7 @@
   accessGroups:
   - SmartGunOperator
   spawnMenuRoleName: RCM Smart Gun Operator (PVE)
+  greeting: rmc-job-greeting-pve-rcm
   special:
   - !type:AddComponentSpecial
     components:

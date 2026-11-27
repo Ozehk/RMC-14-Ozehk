@@ -17,6 +17,7 @@
   accessGroups:
   - HospitalCorpsman
   spawnMenuRoleName: RCM Medical Technician (PVE)
+  greeting: rmc-job-greeting-pve-rcm
   special:
   - !type:AddComponentSpecial
     components:

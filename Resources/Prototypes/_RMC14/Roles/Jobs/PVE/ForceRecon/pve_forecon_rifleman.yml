@@ -12,6 +12,7 @@
   accessGroups:
   - Rifleman
   spawnMenuRoleName: FORECON Rifleman (PVE)
+  greeting: rmc-job-greeting-pve-unmc-forecon
   special:
   - !type:AddComponentSpecial
     components:

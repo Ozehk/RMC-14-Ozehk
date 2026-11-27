@@ -17,6 +17,7 @@
   marineAuthorityLevel: 1
   accessGroups:
   - SmartGunOperator
+  greeting: rmc-job-greeting-pve-unmc-sunriders
   special:
   - !type:AddComponentSpecial
     components:

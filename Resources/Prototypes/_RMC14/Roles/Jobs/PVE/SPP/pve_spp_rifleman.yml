@@ -12,6 +12,7 @@
   accessGroups:
   - Rifleman
   spawnMenuRoleName: SPP Rifleman (PVE)
+  greeting: rmc-job-greeting-pve-spp
   special:
   - !type:AddComponentSpecial
     components:

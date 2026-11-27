@@ -17,6 +17,7 @@
   accessGroups:
   - SquadLeader
   roleWeight: 1
+  greeting: rmc-job-greeting-pve-unmc-sunriders
   special:
   - !type:AddComponentSpecial
     components:

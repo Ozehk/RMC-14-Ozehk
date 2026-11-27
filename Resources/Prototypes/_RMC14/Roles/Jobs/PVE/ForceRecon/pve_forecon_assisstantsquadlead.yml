@@ -12,6 +12,7 @@
   accessGroups:
   - FTL
   spawnMenuRoleName: FORECON Assistant Squad Lead (PVE)
+  greeting: rmc-job-greeting-pve-unmc-forecon
   special:
   - !type:AddComponentSpecial
     components:

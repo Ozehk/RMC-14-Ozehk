@@ -12,6 +12,7 @@
   accessGroups:
   - FTL
   spawnMenuRoleName: SPP Squad Lead (PVE)
+  greeting: rmc-job-greeting-pve-spp
   special:
   - !type:AddComponentSpecial
     components:

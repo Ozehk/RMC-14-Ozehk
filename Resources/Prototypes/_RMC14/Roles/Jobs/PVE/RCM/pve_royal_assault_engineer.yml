@@ -13,6 +13,7 @@
   accessGroups:
   - CombatTech
   spawnMenuRoleName: RCM Assault Engineer (PVE)
+  greeting: rmc-job-greeting-pve-rcm
   special:
   - !type:AddComponentSpecial
     components:

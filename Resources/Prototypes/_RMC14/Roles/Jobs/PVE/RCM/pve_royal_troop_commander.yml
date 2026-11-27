@@ -17,6 +17,7 @@
   accessGroups:
   - ShipMasterAccess
   spawnMenuRoleName: RCM Troop Commander (PVE)
+  greeting: rmc-job-greeting-pve-rcm
   special:
   - !type:AddComponentSpecial
     components:

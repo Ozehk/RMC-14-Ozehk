@@ -16,6 +16,7 @@
   accessGroups:
   - ShipMasterAccess
   spawnMenuRoleName: SPP Platoon Commander (PVE)
+  greeting: rmc-job-greeting-pve-spp
   special:
   - !type:AddComponentSpecial
     components:
